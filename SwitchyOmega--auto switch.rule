@@ -1,0 +1,17 @@
+[SwitchyOmega Conditions]
+@with result
+
+*.ytimg.com +proxy
+*.googleusercontent.com +proxy
+*.youtube.com +proxy
+*.googlesyndication.com +proxy
+*.instagram.com +proxy
+*.facebook.com +proxy
+*.facebook.net +proxy
+*.cdninstagram.com +proxy
+*.xvideos-cdn.com +proxy
+*.trafficfactory.biz +proxy
+*.xvideos.com +proxy
+*.google.com +proxy
+
+* +direct
